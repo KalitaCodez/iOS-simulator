@@ -1,4 +1,4 @@
-# iOS-simulator
+# iOS-simulator WEB BASED.
 To run install the executable for Windows, MacOS, Linux or .ipa for iPhones and iPads.
 Click The operating system you want to run.
 Enter /execute installation (SELECTED IPADOS HERE)
